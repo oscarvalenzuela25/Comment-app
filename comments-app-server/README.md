@@ -4,7 +4,6 @@
 
 Proyecto obtenido de frontmento.io
 [Link al proyecto](<[URL](https://www.frontendmentor.io/challenges/interactive-comments-section-iG1RugEG9)>)
-![alt text](image.png)
 
 ## Setup
 
@@ -17,7 +16,7 @@ npm install
 Create .env file
 
 ```bash
-PORT==
+PORT=
 ```
 
 ## Get Started
